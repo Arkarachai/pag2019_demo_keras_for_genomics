@@ -8,4 +8,4 @@ This repo includes the following material.
 
 3 Notebook shows how we perform deep learning on genomic context to predict variant calling accuracy.
 
-All code are free to be modified/reused with appropriate citation.
+All materials are free to be modified/reused with appropriate citation.
