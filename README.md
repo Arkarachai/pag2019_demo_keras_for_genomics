@@ -1,4 +1,4 @@
-## **Keras in genomics demo for "Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs" workshop at PAG2019**
+## **Keras in genomics demo for "Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs" workshop at Plant and  Animal Genome Conference 2019**
 
 This repo includes the following material.
 
